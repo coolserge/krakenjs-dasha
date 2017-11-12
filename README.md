@@ -1,5 +1,7 @@
 ![kraken-js](public/krakenLogo.png)
 
+Dasha is cool
+
 # kraken.js
 
 [![Build Status](https://travis-ci.org/krakenjs/kraken-js.svg?branch=v1.0.x)](https://travis-ci.org/krakenjs/kraken-js)  
